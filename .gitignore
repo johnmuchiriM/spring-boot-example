@@ -33,6 +33,7 @@ build/
 .vscode/
 
 ### FILES ###
+#not adding application.yml
 !**/src/main/**/src/main/resources/
 
 
