@@ -33,5 +33,6 @@ build/
 .vscode/
 
 ### FILES ###
-main/resources/application.yml
+!**/src/main/**/src/main/resources/
+
 
