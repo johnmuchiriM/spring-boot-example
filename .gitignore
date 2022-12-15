@@ -33,4 +33,4 @@ build/
 .vscode/
 
 ### Files ###
-application.yml
+/home/jean/springdemos/spring-boot-example/src/main/resources/application.yml
