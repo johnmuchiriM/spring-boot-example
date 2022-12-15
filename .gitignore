@@ -1,5 +1,6 @@
 HELP.md
 target/
+main/resources/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -33,4 +34,3 @@ build/
 .vscode/
 
 ### Files ###
-/home/jean/springdemos/spring-boot-example/src/main/resources/application.yml
